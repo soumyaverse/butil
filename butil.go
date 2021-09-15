@@ -4,10 +4,8 @@ import (
 	"fmt"
 )
 
-//print hello world
+// It prints hello world message
 func HelloWorld() {
 	fmt.Println("Hello World! (butil)")
 
 }
-
-// print Hello World
