@@ -1,7 +1,12 @@
 package butil
 
-import "fmt"
+import (
+	"fmt"
+)
 
-func Bhello() {
+func HelloWorld() {
 	fmt.Println("Hello World! (butil)")
+
 }
+
+// print Hello World
